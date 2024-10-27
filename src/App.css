@@ -1,0 +1,10 @@
+/* App.css */
+.DraftEditor-root .align-left {
+  text-align: left;
+}
+.DraftEditor-root .align-center {
+  text-align: center;
+}
+.DraftEditor-root .align-right {
+  text-align: right;
+}
